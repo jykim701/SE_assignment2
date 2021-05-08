@@ -140,3 +140,24 @@
 ## tag
 ![image](https://user-images.githubusercontent.com/58364280/117539760-0b14a100-b047-11eb-814a-b67955a14f75.png)
 > 소스 코드의 버전 관리를 위해 커멋 중 어떤 특정 커밋을 가리키고 싶을 때 사용
+
+
+# 명령어 사용 목록
+| 명령어|사용|
+|----------|------|
+|[add](#add)| O|
+|[branch](#branch) | O|
+|[checkout](#checkout)|O|
+|[clone](#clone) |O|
+|[config](#config)|O|
+|[init](#init) |O|
+|[log](#log)|O|
+|[merge](#merge) |O|
+|[pull](#pull) |O|
+|[push](#push) |O|
+|[rebase](#rebase) |O|
+|[remote](#remote) |O|
+|[reset --hard](#reset---hard)|O
+|[status](#status)|O|
+|[tag](#tags) |O|
+----------------
