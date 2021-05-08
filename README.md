@@ -157,7 +157,7 @@
 |[push](#push) |O|
 |[rebase](#rebase) |O|
 |[remote](#remote) |O|
-|[reset --hard](#reset---hard)|O
+|[reset --hard](#reset--hard)|O
 |[status](#status)|O|
-|[tag](#tags) |O|
+|[tag](#tag) |O|
 ----------------
