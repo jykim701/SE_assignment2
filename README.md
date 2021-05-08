@@ -1,5 +1,5 @@
 # SoftEngineering assignment#2
-## github addr :
+## github addr : https://github.com/jykim701/SE_assignment2
 
 ## 실습 내용
 1. config를 통해 내가 사용자임을 알려준다
